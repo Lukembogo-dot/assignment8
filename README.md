@@ -19,13 +19,13 @@ The COVID-19 Global Data Tracker is a Python-based tool designed to track the CO
 
 ## How to Run/View the Project:
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/covid-19-global-data-tracker.git`
+   `https://github.com/Lukembogo-dot/assignment8.git`
 2. Navigate to the project folder:  
-   `cd covid-19-global-data-tracker`
+   `https://github.com/Lukembogo-dot/assignment8/blob/050b44b917d6ef9d6f7d158a8aad6c30e4c9d775/COVID-19.ipynb`
 3. Install dependencies:  
-   `pip install -r requirements.txt`
+   `pip install pandas matplotlib seaborn requests`
 4. Run the project:  
-   Open the `notebook.ipynb` or run the Python script (`python tracker.py`) to start tracking the COVID-19 data.
+   Open the `COVID-19.ipynb` to start tracking the COVID-19 data.
 
 ## Insights/Reflections:
 This project gave me a deeper understanding of working with APIs and real-time data. I was able to explore how data visualization can help interpret complex information like pandemic trends.
